@@ -1,12 +1,12 @@
 {
-  "catalog": [
+  "catalogo": [
     {
       "id": 1,
       "nome": "Urban Girl",
       "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "capa": "https://github.com/alopsantos/ES-Catalog/blob/master/images/capa.jpg?raw=true",
       "contracapa": "https://github.com/alopsantos/ES-Catalog/blob/master/images/contra-capa.jpg?raw=true",
-      "produtos":[
+      "itens":[
           {
               "id": 12,
               "posicao": 1,
@@ -73,7 +73,7 @@
         "imagem02":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-02.jpg?raw=true",
         "imagem03":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-03.jpg?raw=true",
         "imagem04":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-04.jpg?raw=true",
-        "imagem05":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true",
+        "imagem05":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true"
     },
     {
         "id": 13,
@@ -87,7 +87,7 @@
         "imagem02":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-02.jpg?raw=true",
         "imagem03":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-03.jpg?raw=true",
         "imagem04":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-04.jpg?raw=true",
-        "imagem05":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true",
+        "imagem05":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true"
     },
     {
         "id": 14,
@@ -101,7 +101,7 @@
         "imagem02":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-02.jpg?raw=true",
         "imagem03":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-03.jpg?raw=true",
         "imagem04":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-04.jpg?raw=true",
-        "imagem05":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true",
+        "imagem05":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true"
     },
     {
         "id": 15,
@@ -115,7 +115,7 @@
         "imagem02":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-02.jpg?raw=true",
         "imagem03":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-03.jpg?raw=true",
         "imagem04":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-04.jpg?raw=true",
-        "imagem05":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true",
+        "imagem05":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true"
     },
     {
         "id": 16,
@@ -129,7 +129,7 @@
         "imagem02":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-02.jpg?raw=true",
         "imagem03":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-03.jpg?raw=true",
         "imagem04":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-04.jpg?raw=true",
-        "imagem05":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true",
+        "imagem05":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true"
     },
     {
         "id": 17,
@@ -143,7 +143,7 @@
         "imagem02":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-02.jpg?raw=true",
         "imagem03":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-03.jpg?raw=true",
         "imagem04":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-04.jpg?raw=true",
-        "imagem05":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true",
+        "imagem05":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true"
     },
     {
         "id": 18,
@@ -157,7 +157,7 @@
         "imagem02":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-02.jpg?raw=true",
         "imagem03":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-03.jpg?raw=true",
         "imagem04":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-04.jpg?raw=true",
-        "imagem05":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true",
+        "imagem05":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true"
     },
     {
         "id": 19,
@@ -171,7 +171,7 @@
         "imagem02":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-02.jpg?raw=true",
         "imagem03":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-03.jpg?raw=true",
         "imagem04":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-04.jpg?raw=true",
-        "imagem05":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true",
+        "imagem05":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true"
     },
     {
         "id": 20,
@@ -185,7 +185,7 @@
         "imagem02":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-02.jpg?raw=true",
         "imagem03":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-03.jpg?raw=true",
         "imagem04":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-04.jpg?raw=true",
-        "imagem05":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true",
+        "imagem05":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true"
     },
     {
         "id": 21,
@@ -199,7 +199,7 @@
         "imagem02":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-02.jpg?raw=true",
         "imagem03":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-03.jpg?raw=true",
         "imagem04":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-04.jpg?raw=true",
-        "imagem05":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true",
+        "imagem05":"https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true"
     }
   ]
 }
