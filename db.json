@@ -6,56 +6,72 @@
       "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "capa": "https://github.com/alopsantos/ES-Catalog/blob/master/images/capa.jpg?raw=true",
       "contracapa": "https://github.com/alopsantos/ES-Catalog/blob/master/images/contra-capa.jpg?raw=true",
-      "itensId": 1
     }
   ],
   "itensCatalogo": [
     {
+      "id":1,
+      "catalogoId": 1,
       "produtoId": 12,
       "posicao": 1,
       "layout": "CardOne"
     },
     {
+      "id":2,
+      "catalogoId": 1,
       "produtoId": 13,
       "posicao": 2,
       "layout": "CardFour"
     },
     {
+      "id":3,
       "produtoId": 14,
       "posicao": 3,
       "layout": "CardTwo"
     },
     {
+      "id":4,
       "produtoId": 15,
       "posicao": 4,
       "layout": "CardOne"
     },
     {
+      "id":5,
       "produtoId": 16,
       "posicao": 5,
       "layout": "CardOne"
     },
     {
+      "id":6,
+      "catalogoId": 1,
       "produtoId": 17,
       "posicao": 6,
       "layout": "CardFour"
     },
     {
+      "id":7,
+      "catalogoId": 1,
       "produtoId": 18,
       "posicao": 7,
       "layout": "CardTwo"
     },
     {
+      "id":8,
+      "catalogoId": 1,
       "produtoId": 19,
       "posicao": 8,
       "layout": "CardOne"
     },
     {
+      "id":9,
+      "catalogoId": 1,
       "produtoId": 20,
       "posicao": 9,
       "layout": "CardOne"
     },
     {
+      "id":10,
+      "catalogoId": 1,
       "produtoId": 21,
       "posicao": 10,
       "layout": "CardFour"
