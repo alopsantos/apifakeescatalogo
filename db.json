@@ -1,173 +1,120 @@
 {
-  "catalogo": [
-    {
-      "id": 1,
-      "nome": "Urban Girl",
-      "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has.",
-      "capa": "https://github.com/alopsantos/ES-Catalog/blob/master/images/capa.jpg?raw=true",
-      "contracapa": "https://github.com/alopsantos/ES-Catalog/blob/master/images/contra-capa.jpg?raw=true"
+    "STabelas": {
+        "COFINS": [
+            {
+                "Aliquota": "7.6000",
+                "CST": " 1",
+                "Codigo": "1",
+                "Descricao": "Operação Tributável - Alíquota Basica"
+            },
+            {
+                "Aliquota": "0.0000",
+                "CST": " 2",
+                "Codigo": "2",
+                "Descricao": "Operação Tributável - Alíquota Diferenciada"
+            },
+            {
+                "Aliquota": "0.0000",
+                "CST": " 3",
+                "Codigo": "3",
+                "Descricao": "Operação Tributável - Alíquota por Unidade de Medida"
+            },
+            {
+                "Aliquota": "0.0000",
+                "CST": " 4",
+                "Codigo": "4",
+                "Descricao": "Tributação Monofásica"
+            },
+            {
+                "Aliquota": "0.0000",
+                "CST": " 5",
+                "Codigo": "5",
+                "Descricao": "Operação Tributada por Substituição Tributária"
+            }
+        ],
+        "DispLegal": [
+            {
+                "Codigo": "0",
+                "Descricao": "......"
+            },
+            {
+                "Codigo": "1",
+                "Descricao": "NF-e A RENDIMENTO CONFORME LIVRO II, ARTIGO 38, INCISO III, ALÍNEA c, NOTA a."
+            }
+        ],
+        "Grupo": [
+            {
+                "Codigo": "1",
+                "Descricao": "CEREAIS E PRODUTOS DE MOAGEM"
+            },
+            {
+                "Codigo": "2",
+                "Descricao": "Oleaginosas"
+            }
+        ],
+        "ICMS": [
+            {
+                "Aliquota": "7.0000",
+                "CST": "00",
+                "Codigo": "7",
+                "Descricao": "00 - Tributado Integral",
+                "ModBC": "0",
+                "PercBC": "100.0000"
+            },
+            {
+                "Aliquota": "12.0000",
+                "CST": "00",
+                "Codigo": "12",
+                "Descricao": "00 - Tributado Integral",
+                "ModBC": "3",
+                "PercBC": "100.0000"
+            }
+        ],
+        "IPI": [
+            {
+                "Aliquota": "0.0000",
+                "CST": " 55",
+                "Codigo": "13",
+                "Descricao": "55 - Saída com suspensão"
+            },
+            {
+                "Aliquota": "0.0000",
+                "CST": " 99",
+                "Codigo": "14",
+                "Descricao": "99 - Outras Saídas"
+            }
+        ],
+        "PIS": [
+            {
+                "Aliquota": "1.6500",
+                "CST": " 1",
+                "Codigo": "1",
+                "Descricao": "Operação Tributável - Alíquota Basica"
+            },
+            {
+                "Aliquota": "0.0000",
+                "CST": " 2",
+                "Codigo": "2",
+                "Descricao": "Operação Tributável - Alíquota Diferenciada"
+            }
+        ],
+        "UnMed": [
+            {
+                "Codigo": "1",
+                "Descricao": "Ampola"
+            },
+            {
+                "Codigo": "2",
+                "Descricao": "Bag"
+            },
+            {
+                "Codigo": "3",
+                "Descricao": "Balde"
+            },
+            {
+                "Codigo": "4",
+                "Descricao": "Bisnaga"
+            }
+        ]
     }
-  ],
-  "itens": [
-    {
-      "id": 12,
-      "posicao": 1,
-      "layout": "CardOne",
-      "nome": "Cropped Peace Branco",
-      "referencia": "2021006",
-      "valor": "99,90",
-      "descricao": "",
-      "composicao": "100% algodão",
-      "tamanhos": "P/M/G",
-      "imagem01": "https://github.com/alopsantos/ES-Catalog/blob/master/images/produto-01.jpg?raw=true",
-      "imagem02": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-02.jpg?raw=true",
-      "imagem03": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-03.jpg?raw=true",
-      "imagem04": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-04.jpg?raw=true",
-      "imagem05": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true"
-    },
-    {
-      "id": 13,
-      "posicao": 2,
-      "layout": "CardFour",
-      "nome": "Cropped Peace Preto",
-      "referencia": "2021006",
-      "valor": "99,90",
-      "descricao": "",
-      "composicao": "100% algodão",
-      "tamanhos": "P/M/G",
-      "imagem01": "https://github.com/alopsantos/ES-Catalog/blob/master/images/produto-01.jpg?raw=true",
-      "imagem02": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-02.jpg?raw=true",
-      "imagem03": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-03.jpg?raw=true",
-      "imagem04": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-04.jpg?raw=true",
-      "imagem05": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true"
-    },
-    {
-      "id": 14,
-      "posicao": 3,
-      "layout": "CardTwo",
-      "nome": "Pantalona Karina Preto Tela",
-      "referencia": "1061",
-      "valor": "219,90",
-      "descricao": "",
-      "composicao": "",
-      "tamanhos": "P/M",
-      "imagem01": "https://github.com/alopsantos/ES-Catalog/blob/master/images/produto-01.jpg?raw=true",
-      "imagem02": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-02.jpg?raw=true",
-      "imagem03": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-03.jpg?raw=true",
-      "imagem04": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-04.jpg?raw=true",
-      "imagem05": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true"
-    },
-    {
-      "id": 15,
-      "posicao": 4,
-      "layout": "CardOne",
-      "nome": "Top Bianca Preto Estampado",
-      "referencia": "1082",
-      "valor": "119,90",
-      "descricao": "",
-      "composicao": "",
-      "tamanhos": "P/M",
-      "imagem01": "https://github.com/alopsantos/ES-Catalog/blob/master/images/produto-01.jpg?raw=true",
-      "imagem02": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-02.jpg?raw=true",
-      "imagem03": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-03.jpg?raw=true",
-      "imagem04": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-04.jpg?raw=true",
-      "imagem05": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true"
-    },
-    {
-      "id": 16,
-      "posicao": 5,
-      "layout": "CardOne",
-      "nome": "Macaquinho Rebeca Preto Estampado",
-      "referencia": "1013",
-      "valor": "299,90",
-      "descricao": "",
-      "composicao": "",
-      "tamanhos": "P/M",
-      "imagem01": "https://github.com/alopsantos/ES-Catalog/blob/master/images/produto-01.jpg?raw=true",
-      "imagem02": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-02.jpg?raw=true",
-      "imagem03": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-03.jpg?raw=true",
-      "imagem04": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-04.jpg?raw=true",
-      "imagem05": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true"
-    },
-    {
-      "id": 17,
-      "posicao": 6,
-      "layout": "CardFour",
-      "nome": "Parka Dulcie Preto Tela e Renda",
-      "referencia": "1058",
-      "valor": "339,90",
-      "descricao": "",
-      "composicao": "",
-      "tamanhos": "M/G",
-      "imagem01": "https://github.com/alopsantos/ES-Catalog/blob/master/images/produto-01.jpg?raw=true",
-      "imagem02": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-02.jpg?raw=true",
-      "imagem03": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-03.jpg?raw=true",
-      "imagem04": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-04.jpg?raw=true",
-      "imagem05": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true"
-    },
-    {
-      "id": 18,
-      "posicao": 7,
-      "layout": "CardTwo",
-      "nome": "Corselet Clara Off Alfaiataria",
-      "referencia": "1052",
-      "valor": "179,90",
-      "descricao": "",
-      "composicao": "Alfaiataria",
-      "tamanhos": "M/G",
-      "imagem01": "https://github.com/alopsantos/ES-Catalog/blob/master/images/produto-01.jpg?raw=true",
-      "imagem02": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-02.jpg?raw=true",
-      "imagem03": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-03.jpg?raw=true",
-      "imagem04": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-04.jpg?raw=true",
-      "imagem05": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true"
-    },
-    {
-      "id": 19,
-      "posicao": 8,
-      "layout": "CardOne",
-      "nome": "Shorts Eduarda Preto Couro e Tela",
-      "referencia": "1045",
-      "valor": "179,90",
-      "descricao": "",
-      "composicao": "",
-      "tamanhos": "P/M/G",
-      "imagem01": "https://github.com/alopsantos/ES-Catalog/blob/master/images/produto-01.jpg?raw=true",
-      "imagem02": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-02.jpg?raw=true",
-      "imagem03": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-03.jpg?raw=true",
-      "imagem04": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-04.jpg?raw=true",
-      "imagem05": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true"
-    },
-    {
-      "id": 20,
-      "posicao": 9,
-      "layout": "CardOne",
-      "nome": "Corselet Clara Pink Alfaiataria",
-      "referencia": "1052",
-      "valor": "179,90",
-      "descricao": "",
-      "composicao": "Alfaiataria",
-      "tamanhos": "P/M/G",
-      "imagem01": "https://github.com/alopsantos/ES-Catalog/blob/master/images/produto-01.jpg?raw=true",
-      "imagem02": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-02.jpg?raw=true",
-      "imagem03": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-03.jpg?raw=true",
-      "imagem04": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-04.jpg?raw=true",
-      "imagem05": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true"
-    },
-    {
-      "id": 21,
-      "posicao": 10,
-      "layout": "CardFour",
-      "nome": "Kimono Mariana Preto Estampado",
-      "referencia": "1078",
-      "valor": "239,90",
-      "descricao": "",
-      "composicao": "",
-      "tamanhos": "P/M/G",
-      "imagem01": "https://github.com/alopsantos/ES-Catalog/blob/master/images/produto-01.jpg?raw=true",
-      "imagem02": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-02.jpg?raw=true",
-      "imagem03": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-03.jpg?raw=true",
-      "imagem04": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-04.jpg?raw=true",
-      "imagem05": "https://github.com/alopsantos/ES-Catalog/blob/master/images/foto-01.jpg?raw=true"
-    }
-  ]
 }
